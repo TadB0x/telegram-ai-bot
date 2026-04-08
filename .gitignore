@@ -1,0 +1,8 @@
+*.session
+__pycache__/
+*.pyc
+*.bak
+bot.log
+memory.db
+.env
+sandbox/
